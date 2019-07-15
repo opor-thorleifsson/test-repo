@@ -1,0 +1,14 @@
+C:\Users\Opor.Thorleifsson\source\repos\CodeWars\CodeWars\bin\Debug\CodeWars.exe.config
+C:\Users\Opor.Thorleifsson\source\repos\CodeWars\CodeWars\bin\Debug\CodeWars.exe
+C:\Users\Opor.Thorleifsson\source\repos\CodeWars\CodeWars\bin\Debug\CodeWars.pdb
+C:\Users\Opor.Thorleifsson\source\repos\CodeWars\CodeWars\obj\Debug\CodeWars.csprojAssemblyReference.cache
+C:\Users\Opor.Thorleifsson\source\repos\CodeWars\CodeWars\obj\Debug\CodeWars.csproj.CoreCompileInputs.cache
+C:\Users\Opor.Thorleifsson\source\repos\CodeWars\CodeWars\obj\Debug\CodeWars.exe
+C:\Users\Opor.Thorleifsson\source\repos\CodeWars\CodeWars\obj\Debug\CodeWars.pdb
+\\PRODWIN0107\USERDATASHARE0001\Opor.Thorleifsson\Backups\CodeWars\CodeWars\bin\Debug\CodeWars.exe.config
+\\PRODWIN0107\USERDATASHARE0001\Opor.Thorleifsson\Backups\CodeWars\CodeWars\bin\Debug\CodeWars.exe
+\\PRODWIN0107\USERDATASHARE0001\Opor.Thorleifsson\Backups\CodeWars\CodeWars\bin\Debug\CodeWars.pdb
+\\PRODWIN0107\USERDATASHARE0001\Opor.Thorleifsson\Backups\CodeWars\CodeWars\obj\Debug\CodeWars.csprojAssemblyReference.cache
+\\PRODWIN0107\USERDATASHARE0001\Opor.Thorleifsson\Backups\CodeWars\CodeWars\obj\Debug\CodeWars.csproj.CoreCompileInputs.cache
+\\PRODWIN0107\USERDATASHARE0001\Opor.Thorleifsson\Backups\CodeWars\CodeWars\obj\Debug\CodeWars.exe
+\\PRODWIN0107\USERDATASHARE0001\Opor.Thorleifsson\Backups\CodeWars\CodeWars\obj\Debug\CodeWars.pdb
